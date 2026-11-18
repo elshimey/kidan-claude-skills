@@ -1,0 +1,11 @@
+{
+  "name": "kidan-skills",
+  "owner": { "name": "Kidan Matin" },
+  "plugins": [
+    {
+      "name": "kidan-nonprofit",
+      "source": "./plugins/kidan-nonprofit",
+      "description": "مهارات كدان متين للمحاسبة التشغيلية للجمعيات الأهلية"
+    }
+  ]
+}
